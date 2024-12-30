@@ -6,7 +6,7 @@
 
 <!-- Name -->
 
-<a href="https://git.io/typing-svg"><img width="100%" align="center" style="max-height: 60px;" src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&duration=1&pause=99999999999&color=F4830E&center=true&width=435&lines=Hi%2C+I'm+Hasan+Cutcu" alt="Typing SVG" /></a>
+<a href="https://nextena.com/"><img width="100%" align="center" style="max-height: 60px;" src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&duration=1&pause=99999999999&color=F4830E&center=true&width=435&lines=Hi%2C+I'm+Hasan+Cutcu" alt="Typing SVG" /></a>
 
 <!-- Welcome -->
 <p align="center">
