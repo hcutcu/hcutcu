@@ -48,7 +48,7 @@ I'm available for **freelance opportunities**! If you're looking for a dedicated
 
 <!-- GitHub Stats -->
 <p width="50%" align="center">
-    <a href="https://github.com/hcutcu"><img width= "100%" style="max-height: 200px;" src="https://streak-stats.demolab.com?user=hcutcu&theme=highcontrast" alt="Hasan Cutcu - GitHub Streak" /></a>
+    <a href="https://github.com/hcutcu"><img width= "100%" style="max-height: 150px;" src="https://streak-stats.demolab.com?user=hcutcu&theme=highcontrast" alt="Hasan Cutcu - GitHub Streak" /></a>
 </p>
 <br/>
 
