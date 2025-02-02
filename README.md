@@ -39,7 +39,7 @@ I'm available for **freelance opportunities**! If you're looking for a dedicated
 <!-- Not categorized, whole list of technologies I love to work with. -->
 <p width="100%" align="center">
   <a href="https://nextena.com/">
-    <img width="100%" src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,graphql,aws,django,flask,docker,kubernetes,linux,postgres,mongodb,redis,redux,materialui,html,css,vscode,git,webpack,bash,ubuntu,debian,arch,azure,terraform,jest,sentry,firebase,dotnet,bootstrap,sequelize,figma,grafana,electron,visualstudio,npm,windows,apollo,babel,dynamodb,flutter,kali,powershell&theme=dark&perline=13" />
+    <img width="100%" src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,graphql,aws,django,flask,docker,kubernetes,linux,postgres,mongodb,redis,redux,materialui,html,css,vscode,git,webpack,bash,ubuntu,debian,arch,azure,terraform,jest,sentry,firebase,dotnet,bootstrap,sequelize,figma,grafana,electron,visualstudio,npm,windows,apollo,babel,dynamodb,flutter,kali,powershell&theme=dark&perline=25" />
   </a>
 </p>
 
